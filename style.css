@@ -203,7 +203,7 @@ nav{
     background-color: #edf1fd;
 }
 .btnnn{
-    color: black;
+   
     font-size: 10rem;
     font-family: calibri;
     width: 80px;
@@ -220,7 +220,7 @@ nav{
 }
 .btnnn:hover{
     background-color:#FFFFFF;
-    color: #000000;
+    
     transition: all ease 0.5s;
     font-weight: 700;
 }
