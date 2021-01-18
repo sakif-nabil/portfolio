@@ -186,6 +186,7 @@ nav{
     border:none;
     outline:none;
     background-color: #17d1ac;
+    cursor: pointer;
 }
 .about-text button:hover{
     background-color: #FFFFFF;
